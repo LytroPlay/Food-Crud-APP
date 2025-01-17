@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Food-Crud-APP/static/css/main.7b5eb65e.css",
+    "main.js": "/Food-Crud-APP/static/js/main.66aa9f1f.js",
+    "index.html": "/Food-Crud-APP/index.html",
+    "main.7b5eb65e.css.map": "/Food-Crud-APP/static/css/main.7b5eb65e.css.map",
+    "main.66aa9f1f.js.map": "/Food-Crud-APP/static/js/main.66aa9f1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5eb65e.css",
+    "static/js/main.66aa9f1f.js"
+  ]
+}
